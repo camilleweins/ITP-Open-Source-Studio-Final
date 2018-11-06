@@ -6,7 +6,7 @@ My idea is to create a dictionary for Greek and Latin medical terminology that c
 ## Team Members
 #### Camille Weins
 * [Github](https://github.com/camilleweins)
-* [Blog] (https://medium.com/@camilleweins)
+* [Blog](https://medium.com/@camilleweins)
 
 ## Define the problem.
 We have ways of getting our world news (NPR, AP, Reuters) in an unbiased fashion and as close to the source material as possible but the same cannot be said for scientific papers.The audience is a science oriented community - particularly medically inclined. I have hand "translated" two examples of what I want to do.
