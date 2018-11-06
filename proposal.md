@@ -4,7 +4,7 @@
 My idea is to create a dictionary for Greek and Latin medical terminology that converts complex terms into layman’s terms. This will increase accessibility for medical information for people in all levels of expertise. Some terms may have parts that are defined in a Latin dictionary, some in Greek, and some words have mixed Latin and Greek roots. The definitions for medical terminology will be largely crowd sourced so that terms can be explained in the best way for everyone.
 
 ## Team Members
-####Camille Weins
+#### Camille Weins
 * [Github](https://github.com/camilleweins)
 * [Blog] (https://medium.com/@camilleweins)
 
@@ -14,7 +14,7 @@ We have ways of getting our world news (NPR, AP, Reuters) in an unbiased fashion
 #### 1. Before
 The olfactory system sensitively discerns scents from many small molecules as the brain analyses signals from nasal receptors. These receptors are selective to some degree, though the mechanism for selectivity is still controversial. Enantiomers, chiral pairs of left- and right-handed structures, are an important class of molecules in assessing proposed mechanisms. We show that there is a correlation between molecular (structural) flexibility and whether or not the left- and right-handed enantiomers smell the same. In particular, for the fairly extensive class of enantiomers with six-membered ring flexibility, enantiomers do not smell the same. There are, of course, significant experimental uncertainties, which we discuss here. We discuss models of receptor selectivity, both those based on shape and those where discrimination is based on other factors, such as electron affinity, proton affinity or vibration frequencies. The differences in scent of these enantiomers appear to be consistent with simple generalizations of a ‘swipe card’ model in which, while the shape must be good enough, critical information for actuation is a separate factor.
 
-####After
+#### After
 The olfactory system sensitively discerns scents from many small molecules as the brain analyses signals from nasal **to receive**. These **to receive** are selective to some degree, though the **fabric or structure** for selectivity is still controversial. **opposite**, **hand** pairs of left- and right-handed structures, are an important class of molecules in assessing proposed mechanisms. We show that there is a **together having brought back** between **an amount** (structural) flexibility and whether or not the left- and right-handed **opposites** smell the same. In particular, for the fairly extensive class of **opposites** with six-membered ring flexibility, **opposites** do not smell the same. There are, of course, significant experimental uncertainties, which we discuss here. We discuss models of **to receive** selectivity, both those based on shape and those where discrimination is based on other factors, such as electron affinity, **first ion, go** affinity or vibration frequencies. The differences in scent of these **opposites** appear to be consistent with simple generalizations of a ‘swipe card’ model in which, while the shape must be good enough, critical information for **having implemented** is a separate factor.
 
 **Brookes, J. C., Horsfield, A. P., & Stoneham, A. M. (2008). Odour character differences for enantiomers correlate with molecular flexibility. Journal of the Royal Society, Interface, 6(30), 75-86.**
@@ -22,7 +22,7 @@ The olfactory system sensitively discerns scents from many small molecules as th
 #### 2. Before
 Comorbidities impact a large proportion of patients with chronic obstructive pulmonary disease (COPD), with over 80% of patients with COPD estimated to have at least one comorbid chronic condition. Guidelines for the treatment of COPD are just now incorporating comorbidities to their management recommendations of COPD, and it is becoming increasingly clear that multimorbidity as well as specific comorbidities have strong associations with mortality and clinical outcomes in COPD, including dyspnea, exercise capacity, quality of life, healthcare utilization, and exacerbation risk. Appropriately, there has been an increased focus upon describing the burden of comorbidity in the COPD population and incorporating this information into existing efforts to better understand the clinical and phenotypic heterogeneity of this group. In this article, we summarize existing knowledge about comorbidity burden and specific comorbidities in COPD, focusing on prevalence estimates, association with outcomes, and existing knowledge about treatment strategies.
 
-####After
+#### After
 **along with diseased conditions** impact a large proportion of patients with chronic obstructive pulmonary disease (COPD), with over 80% of patients with COPD estimated to have at least one **along with diseased condition** chronic condition. Guidelines for the treatment of COPD are just now incorporating **along with diseased conditions** to their management recommendations of COPD, and it is becoming increasingly clear that **many diseased conditions** as well as specific **along with diseased condition** have strong associations with mortality and clinical outcomes in COPD, including **difficulty breathing**, exercise capacity, quality of life, healthcare utilization, and **to increase in severity** risk. Appropriately, there has been an increased focus upon describing the burden of **along with diseased condition** in the COPD population and incorporating this information into existing efforts to better understand the clinical and **“I shine” typical form** **other family** of this group. In this article, we summarize existing knowledge about **along with diseased condition** burden and specific **along with diseased conditions** in COPD, focusing on prevalence estimates, association with outcomes, and existing knowledge about treatment strategies.
 
 **Putcha, N., Drummond, M. B., Wise, R. A., & Hansel, N. N. (2015). Comorbidities and Chronic Obstructive Pulmonary Disease: Prevalence, Influence on Outcomes, and Management. Seminars in respiratory and critical care medicine, 36(4), 575-91.**
@@ -69,18 +69,12 @@ This project will be completed over 5 weeks (Nov 6 - Dec 11). Describe a timelin
 
 ## Documentation
 
-_Describe your plan for documentation. Will you keep a blog? Make videos? Some project management tool? Track everything on GitHub as issues?_
-
 I will be blogging the actual coding process but I would really like to get some of my friends of just other people to contribute to either data source. I wonder if the easiest way to get non Github experienced people to contribute is to build a really simple form for either dictionary or reading material submissions.
 
 ## Accessibility
 
-_What challenges are there related to your project in terms of Web Content Accessibility Requirements: [see the Accessibility assignment as a reference](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/accessibility-assignment.md#instructions)._
-
 The text should be legible and have as little styling as I can manage. Text size should also be adjustable if possible. I would like to stick with black text on a white background to have the most contrast.
 
 ## Mentoring
-
-_List some possible mentors for this project. Describe what kinds of help you need (technical, conceptual, outreach, etc.)_
 
 I'm not sure who would be a good mentor for me. I would probably need help with the technicalities the most. Outreach could be a potential issue too since this project is so niche.
