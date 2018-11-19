@@ -1,4 +1,4 @@
-# Final Project Proposal Template
+# Final Project Proposal
 
 ## Project Title - Lexicon (tentative)
 My idea is to create a dictionary for Greek and Latin medical terminology that converts complex terms into layman’s terms. This will increase accessibility for medical information for people in all levels of expertise. Some terms may have parts that are defined in a Latin dictionary, some in Greek, and some words have mixed Latin and Greek roots. The definitions for medical terminology will be largely crowd sourced so that terms can be explained in the best way for everyone.
