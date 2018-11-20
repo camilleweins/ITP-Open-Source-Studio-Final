@@ -1,0 +1,283 @@
+// a collection of Greekcombining affixs 
+{
+	"description": "A list of combining terms found in medical Greek",
+	"terms": [
+		{
+			"affix": "a-",
+			"definition": "without"
+		},
+
+		{
+			"affix": "ab-",
+			"definition": "away"
+		},
+
+		{
+			"affix": "ad-",
+			"definition": "toward"
+		},
+
+		{
+			"affix": "adipo",
+			"definition": "fat"
+		},
+
+		{
+			"affix": "alb-",
+			"definition": "white"
+		},
+
+		{
+			"affix": "alve-",
+			"definition": "cavity"
+		},
+
+		{
+			"affix": "ambi-",
+			"definition": "both"
+		},
+
+		{
+			"affix": "ante-",
+			"definition": "before"
+		},
+
+		{
+			"affix": "apic-",
+			"definition": "top"
+		},
+
+		{
+			"affix": "-ase",
+			"definition": "enzyme"
+		},
+
+
+		{
+			"affix": "bio-",
+			"definition": "life"
+		},
+
+
+		{
+			"affix": "blast-",
+			"definition": "bud, child, a growing thing in its early stages"
+		},
+
+
+		{
+			"affix": "blenn-",
+			"definition": "mucus"
+		},
+
+
+		{
+			"affix": "blep-",
+			"definition": "look, see"
+		},
+
+
+		{
+			"affix": "blephar-",
+			"definition": "of eyelid"
+		},
+
+
+		{
+			"affix": "brachii-",
+			"definition": "arm"
+		},
+
+
+		{
+			"affix": "brachy-",
+			"definition": "short"
+		},
+
+
+		{
+			"affix": "brady-",
+			"definition": "short"
+		},
+
+
+		{
+			"affix": "brom-",
+			"definition": "stench"
+		},
+
+
+		{
+			"affix": "bronch-",
+			"definition": "windpipe"
+		},
+
+
+		{//***
+			"affix": "bronchiole-",
+			"definition": "of bronchus"
+		},
+
+
+		{
+			"affix": "bry-",
+			"definition": "be full of life"
+		},
+
+
+		{
+			"affix": "butry-",
+			"definition": "butter"
+		},
+
+
+		{
+			"affix": "cac-",
+			"definition": "bad, abnormal"
+		},
+
+
+		{
+			"affix": "campt-",
+			"definition": "bent"
+		},
+
+
+		{
+			"affix": "canth-",
+			"definition": "foreign"
+		},
+
+
+		{
+			"affix": "capn-",
+			"definition": "smoke"
+		},
+
+
+		{
+			"affix": "carcin-",
+			"definition": "crab, cancer"
+		},
+
+
+		{
+			"affix": "cardi-",
+			"definition": "heart"
+		},
+
+		{
+			"affix": "cata-",
+			"definition": "down, negative"
+		},
+
+		{///***
+			"affix": "-cele",
+			"definition": "tumor, hernia" , "hollow"
+		},
+
+		{
+			"affix": "celi-",
+			"definition": "belly"
+		},
+
+		{
+			"affix": "cen-",
+			"definition": "common"
+		},
+
+		{
+			"affix": "cente-",
+			"definition": "to puncture"
+		},
+
+
+
+
+
+
+
+
+		{
+			"affix": "bacill-",
+			"definition": "rod"
+		},
+
+		{
+			"affix": "bi-",
+			"definition": "two"
+		},
+
+		{
+			"affix": "brevi-",
+			"definition": "short"
+		},
+
+		{
+			"affix": "capit-",
+			"definition": "head"
+		},
+
+		{
+			"affix": "cervix",
+			"definition": "neck"
+		},
+
+		{
+			"affix": "cili-",
+			"definition": "eyelid"
+		},
+
+		{
+			"affix": "cortic",
+			"definition": "bark"
+		},
+
+		{
+			"affix": "de-",
+			"definition": "without"
+		},
+
+
+		{
+			"affix": "de-",
+			"definition": "without"
+		},
+
+
+
+
+
+		{
+			"affix": "enantios-",
+			"definition": "opposite"
+		},
+
+		{
+			"affix": "chir-",
+			"definition": "hand"
+		},
+
+		{
+			"affix": "mecha-",
+			"definition": "fabric or structure"
+		},
+
+		{
+			"affix": "pheno-",
+			"definition": "I shine"
+		},
+
+
+		{
+			"affix": "type",
+			"definition": "typical form"
+		},
+
+
+
+
+	]
+
+
+}
