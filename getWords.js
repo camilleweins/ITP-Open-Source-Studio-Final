@@ -6,7 +6,7 @@ let position; //current position
 let word = 0; //current word position
 
 let wordIndex;
-
+let characters;
 var documentfrequency = {}; // initialize JSON for the documents
 //and then everything gets stashed in this JSON
 
@@ -14,73 +14,74 @@ var termfrequency = {}; // JSON for the terms
 
 let greek = [
      {
-          "affix": "chord-",
+          "affix": "chord",
           "definition": "string, cord"
      },
 
      {
-          "affix": "chore-",
+          "affix": "chore",
           "definition": "dance"
      },
 
      {
-          "affix": "chori-",
+          "affix": "chori",
           "definition": "membrane"
      },
 
      {
-          "affix": "chro-",
+          "affix": "chro",
           "definition": "color"
      },
 
      {
-          "affix": "chron-",
+          "affix": "chron",
           "definition": "time"
      }
 ];
 
 let latin = [
      {
-          "affix": "-eal",
+          "affix": "eal",
           "definition": "pertaining to"
      },
 
      {
-          "affix": "ex-",
+          "affix": "ex",
           "definition": "out of"
      },
 
      {
-          "affix": "extra-",
+          "affix": "extra",
           "definition": "outside"
      },
 
      {
-          "affix": "faci-",
+          "affix": "faci",
           "definition": "face"
      },
 
      {
-          "affix": "fibr-",
+          "affix": "fibr",
           "definition": "fiber"
      },
 
      {
-          "affix": "fil-",
+          "affix": "fil",
           "definition": "thread"
      },
 
      {
-          "affix": "-form",
+          "affix": "form",
           "definition": "having the form of"
      },
 
      {
-          "affix": "front-",
+          "affix": "front",
           "definition": "forehead"
      }
 ];
 
+//what should the thresh bee for the TF?
 let thresh = 0.3; //hard coded for now
 
 for (i in termfrequency) {
@@ -149,16 +150,8 @@ function getCharacters() {
                //console.log(wordArray);
 
                for (let j = 0; j < wordArray.length; j++) { //lets go through the words
-                    let characters = wordArray[j].split(''); //characters in all the words
+                    characters = wordArray[j].split(''); //characters in all the words
                     //console.log(characters);
-
-          //RegExp(characters);
-          // for (key in greek) {
-          //      for (keys in latin) {
-          //
-          //      }
-          //
-          // }
                }
           }
          // console.log(i + ": " + documentfrequency[i]); // test
@@ -166,6 +159,29 @@ function getCharacters() {
      }
 }
 
+// function getJsonKeys() {
+//
+// }
+
+
 function matchJson() {
+
+//go through the jsons and test for matches
+     for (let i = 0; i < greek.length; i++) {
+            console.log(greek[i].affix);
+            let gAffix = greek[i].affix;
+            for (let j = 0; j < latin.length; j++) {
+                  let lAffix = new RegExp(latin[j].affix);
+                  console.log(lAffix);
+
+
+                  if (lAffix.test(characters)) {
+                       return latin[j].definition;
+                       console.log(latin[j].definition);
+                  }
+
+            }
+     }
+
 
 }
