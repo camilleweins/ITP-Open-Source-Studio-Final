@@ -8,12 +8,12 @@ My idea is to create a dictionary scientific terminology that converts complex t
 #### Camille Weins
 * [Github](https://github.com/camilleweins)
 * [Blog](https://medium.com/@camilleweins)
-* [Form](https://goo.gl/forms/4R3qRpncoqISVEEr1)
 
 ## Deliverables / Work Product
 * [DEMO](http://www.camilleweins.com/lexicon/)
 * [Ideal version](https://editor.p5js.org/cweins/full/ryayP4p14)
 * [Testing session](https://github.com/camilleweins/ITP-Open-Source-Studio-Final/blob/master/test.md)
+* [Form](https://goo.gl/forms/4R3qRpncoqISVEEr1)
 
 ## Define the problem you addressed and greater landscape
 
