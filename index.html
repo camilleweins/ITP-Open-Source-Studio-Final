@@ -2,14 +2,14 @@
 <html lang="en" dir="ltr">
      <head>
           <meta charset="utf-8">
-          <title>testing</title>
+          <title>Lexicon Demo</title>
           <style type="text/css">
-                    div{
-               left: 10%;
+          div{
+               left: 18%;
                margin-top: 5%;
                position: relative;
                line-height: 2em;
-               width: 40%;
+               width: 65%;
           }
                a[data-tooltip] {
           display: inline-block;/*bug fix*/
@@ -66,14 +66,17 @@
           opacity: 1;
          }
           </style>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
      </head>
-<!--      <script src="getWords.js">
 
-     </script> -->
+
      <body>
-          <button type="button" onclick="run()" name="button">Run TF IDF</button>
-          <div id="text">We developed a simple microtechnique to measure lipids in milk by UV spectrophotometry. This technique is based upon the property of fatty acids to absorb UV light proportional to their concentration. Samples of powdered or fluid milk (30 or 60 muL) were added to 3 mL of analytic grade ethanol and stored at -20 degrees C for at least 1 h. This procedure precipitates proteins and hydrophobic peptides that interfere with UV measurement. Sample absorbances are then measured at 208 nm in an UV-Vis spectrophotometer. This technique correlated very well against Milko-Scan, a device that measures milk fat by IR spectroscopy, with an r(2) >0.982. Accuracy and precision, evaluated by recovery and replicate assays, are also very acceptable. This method is suitable as a fast, cost-effective alternative screening method to estimate milk fat content in small samples without prior lipid extraction.</div>
-               <script type="text/javascript" src="regex.js"></script>
+
+             <div id="text">We developed a simple microtechnique to measure lipids in milk by UV spectrophotometry. This technique is based upon the property of fatty acids to absorb UV light proportional to their concentration. Samples of powdered or fluid milk (30 or 60 muL) were added to 3 mL of analytic grade ethanol and stored at -20 degrees C for at least 1 h. This procedure precipitates proteins and hydrophobic peptides that interfere with UV measurement. Sample absorbances are then measured at 208 nm in an UV-Vis spectrophotometer. This technique correlated very well against Milko-Scan, a device that measures milk fat by IR spectroscopy, with an r(2) >0.982. Accuracy and precision, evaluated by recovery and replicate assays, are also very acceptable. This method is suitable as a fast, cost-effective alternative screening method to estimate milk fat content in small samples without prior lipid extraction.</div>
+          <button type="button" onclick="run()" name="button">Run</button>
+          
+
+          <script type="text/javascript" src="sketch.js"></script>
 
      </body>
 </html>

@@ -1,14 +1,12 @@
-{
-	"description": "A list of combining terms found in medical Latin",
-	"souces": [ "http://www.indiana.edu/~g404/GreekLatinRoots.pdf", "https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes", "Dorland's Medical Dictionary"],
-	"terms": [
+
+	[
 		{
-			"affix": "ab-",
+			"affix": "ab",
 			"definition": "away"
 		},
 
 		{
-			"affix": "ad-",
+			"affix": "ad",
 			"definition": "toward"
 		},
 
@@ -18,52 +16,52 @@
 		},
 
 		{
-			"affix": "alb-",
+			"affix": "alb",
 			"definition": "white"
 		},
 
 		{
-			"affix": "alve-",
+			"affix": "alve",
 			"definition": "cavity"
 		},
 
 		{
-			"affix": "ambi-",
+			"affix": "ambi",
 			"definition": "both"
 		},
 
 		{
-			"affix": "ante-",
+			"affix": "ante",
 			"definition": "before"
 		},
 
 		{
-			"affix": "apic-",
+			"affix": "apic",
 			"definition": "top"
 		},
 
 		{
-			"affix": "-ase",
+			"affix": "ase",
 			"definition": "enzyme"
 		},
 
 		{
-			"affix": "bacill-",
+			"affix": "bacill",
 			"definition": "rod"
 		},
 
 		{
-			"affix": "bi-",
+			"affix": "bi",
 			"definition": "two"
 		},
 
 		{
-			"affix": "brevi-",
+			"affix": "brevi",
 			"definition": "short"
 		},
 
 		{
-			"affix": "capit-",
+			"affix": "capit",
 			"definition": "head"
 		},
 
@@ -73,7 +71,7 @@
 		},
 
 		{
-			"affix": "cili-",
+			"affix": "cili",
 			"definition": "eyelid"
 		},
 
@@ -83,818 +81,1229 @@
 		},
 
 		{
-			"affix": "de-",
+			"affix": "de",
 			"definition": "without"
 		},
 
 		{
-			"affix": "dent-",
+			"affix": "dent",
 			"definition": "teeth"
 		},
 
 		{
-			"affix": "dextr-",
+			"affix": "dextr",
 			"definition": "right"
 		},
 
 		{
-			"affix": "di-",
+			"affix": "di",
 			"definition": "apart"
 		},
 
 		{
-			"affix": "dif-",
+			"affix": "dif",
 			"definition": "separation"
 		},
 
 		{
-			"affix": "digit-",
+			"affix": "digit",
 			"definition": "finger"
 		},
 
 		{
-			"affix": "dis-",
+			"affix": "dis",
 			"definition": "taking apart"
 		},
 
 		{
-			"affix": "dors-",
+			"affix": "dors",
 			"definition": "back"
 		},
 
 		{
-			"affix": "duodeno-",
+			"affix": "duodeno",
 			"definition": "twelve"
 		},
 
 		{
-			"affix": "-eal",
+			"affix": "eal",
 			"definition": "pertaining to"
 		},
 
 		{
-			"affix": "ex-",
+			"affix": "ex",
 			"definition": "out of"
 		},
 
 		{
-			"affix": "extra-",
+			"affix": "extra",
 			"definition": "outside"
 		},
 
 		{
-			"affix": "faci-",
+			"affix": "faci",
 			"definition": "face"
 		},
 
 		{
-			"affix": "fibr-",
+			"affix": "fibr",
 			"definition": "fiber"
 		},
 
 		{
-			"affix": "fil-",
+			"affix": "fil",
 			"definition": "thread"
 		},
 
 		{
-			"affix": "-form",
+			"affix": "form",
 			"definition": "having the form of"
 		},
 
 		{
-			"affix": "front-",
+			"affix": "front",
 			"definition": "forehead"
 		},
 
 		{
-			"affix": "genu-",
+			"affix": "genu",
 			"definition": "knee"
 		},
 
 		{
-			"affix": "gingiv-",
+			"affix": "gingiv",
 			"definition": "of the gum"
 		},
 
 		{
-			"affix": "halluc-",
+			"affix": "halluc",
 			"definition": "wander in mind"
 		},
 
 		{
-			"affix": "hemat-",
+			"affix": "hemat",
 			"definition": "blood"
 		},
 
 		{
-			"affix": "humer-",
+			"affix": "humer",
 			"definition": "shoulder"
 		},
 
 		{
-			"affix": "-icle",
+			"affix": "icle",
 			"definition": "small"
 		},
 
 		{
-			"affix": "-ics",
+			"affix": "ics",
 			"definition": "organized knowledge"
 		},
 
 		{
-			"affix": "infra-",
+			"affix": "infra",
 			"definition": "below"
 		},
 
 		{
-			"affix": "insul-",
+			"affix": "insul",
 			"definition": "island"
 		},
 
 		{
-			"affix": "inter-",
+			"affix": "inter",
 			"definition": "between"
 		},
 
 		{
-			"affix": "intra-",
+			"affix": "intra",
 			"definition": "inside"
 		},
 
 		{
-			"affix": "intro-",
+			"affix": "intro",
 			"definition": "within"
 		},
 
 		{
-			"affix": "ipsi-",
+			"affix": "ipsi",
 			"definition": "self"
 		},
 
 		{
-			"affix": "jact-",
+			"affix": "jact",
 			"definition": "throw"
 		},
 
 		{
-			"affix": "-ject",
+			"affix": "ject",
 			"definition": "throw"
 		},
 
 		{
-			"affix": "jejun-",
+			"affix": "jejun",
 			"definition": "empty"
 		},
 
 		{
-			"affix": "jug-",
+			"affix": "jug",
 			"definition": "yoke"
 		},
 
 		{
-			"affix": "junct-",
+			"affix": "junct",
 			"definition": "join"
 		},
 
 		{
-			"affix": "juxta-",
+			"affix": "juxta",
 			"definition": "near"
 		},
 
 		{
-			"affix": "labi-",
+			"affix": "labi",
 			"definition": "lip"
 		},
 
 		{
-			"affix": "lact-",
+			"affix": "lact",
 			"definition": "milk"
 		},
 
 		{
-			"affix": "lat-",
+			"affix": "lat",
 			"definition": "carry"
 		},
 
 		{
-			"affix": "later-",
+			"affix": "later",
 			"definition": "side"
 		},
 
 		{
-			"affix": "lent-",
+			"affix": "lent",
 			"definition": "lentil"
 		},
 
 		{
-			"affix": "lev-",
+			"affix": "lev",
 			"definition": "left"
 		},
 
 		{
-			"affix": "lien-",
+			"affix": "lien",
 			"definition": "spleen"
 		},
 
 		{
-			"affix": "lig-",
+			"affix": "lig",
 			"definition": "bind"
 		},
 
 		{
-			"affix": "lingu-",
+			"affix": "lingu",
 			"definition": "tongue"
 		},
 
 		{
-			"affix": "loc-",
+			"affix": "loc",
 			"definition": "place"
 		},
 
 		{
-			"affix": "lumb-",
+			"affix": "lumb",
 			"definition": "loin"
 		},
 
 		{
-			"affix": "lute-",
+			"affix": "lute",
 			"definition": "yellow"
 		},
 
 		{
-			"affix": "mal-",
+			"affix": "mal",
 			"definition": "bad"
 		},
 
 		{
-			"affix": "mamm-",
+			"affix": "mamm",
 			"definition": "breast"
 		},
 
 		{
-			"affix": "man-",
+			"affix": "man",
 			"definition": "hand"
 		},
 
 		{
-			"affix": "medi-",
+			"affix": "medi",
 			"definition": "middle"
 		},
 
 		{
-			"affix": "ment-",
+			"affix": "ment",
 			"definition": "mind"
 		},
 
 		{
-			"affix": "milli-",
+			"affix": "milli",
 			"definition": "one thousand"
 		},
 
 		{
-			"affix": "-mittent",
+			"affix": "mittent",
 			"definition": "send"
 		},
 
 		{
-			"affix": "mot-",
+			"affix": "mot",
 			"definition": "move"
 		},
 
 		{
-			"affix": "muc-",
+			"affix": "muc",
 			"definition": "mucus"
 		},
 
 		{
-			"affix": "multi-",
+			"affix": "multi",
 			"definition": "many"
 		},
 
 		{
-			"affix": "myring-",
+			"affix": "myring",
 			"definition": "membrane"
 		},
 
 		{
-			"affix": "nas-",
+			"affix": "nas",
 			"definition": "nose"
 		},
 
 		{
-			"affix": "nev-",
+			"affix": "nev",
 			"definition": "mole"
 		},
 
 		{
-			"affix": "nod-",
+			"affix": "nod",
 			"definition": "knot"
 		},
 
 		{
-			"affix": "non-",
+			"affix": "non",
 			"definition": "not"
 		},
 
 		{
-			"affix": "norm-",
+			"affix": "norm",
 			"definition": "rule"
 		},
 
 		{
-			"affix": "nucle-",
+			"affix": "nucle",
 			"definition": "kernel"
 		},
 
 		{
-			"affix": "nutri-",
+			"affix": "nutri",
 			"definition": "nourish"
 		},
 
 		{
-			"affix": "ob-",
+			"affix": "ob",
 			"definition": "against"
 		},
 
 		{
-			"affix": "ocul-",
+			"affix": "ocul",
 			"definition": "eye"
 		},
 
 		{
-			"affix": "ole-",
+			"affix": "ole",
 			"definition": "oil"
 		},
 
 		{
-			"affix": "or-",
+			"affix": "or",
 			"definition": "mouth"
 		},
 
 		{
-			"affix": "orb-",
+			"affix": "orb",
 			"definition": "circle"
 		},
 
 		{
-			"affix": "oscill-",
+			"affix": "oscill",
 			"definition": "to swing"
 		},
 
 		{
-			"affix": "oss-",
+			"affix": "oss",
 			"definition": "bone"
 		},
 
 		{
-			"affix": "ov-",
+			"affix": "ov",
 			"definition": "egg"
 		},
 
 		{
-			"affix": "ovari-",
+			"affix": "ovari",
 			"definition": "ovary"
 		},
 
 		{
-			"affix": "palat-",
+			"affix": "palat",
 			"definition": "palate"
 		},
 
 		{
-			"affix": "par-",
+			"affix": "par",
 			"definition": "bear"
 		},
 
 		{
-			"affix": "pariet-",
+			"affix": "pariet",
 			"definition": "wall"
 		},
 
 		{
-			"affix": "pauci-",
+			"affix": "pauci",
 			"definition": "few"
 		},
 
 		{
-			"affix": "ped-",
+			"affix": "ped",
 			"definition": "foot"
 		},
 
 		{
-			"affix": "pell-",
+			"affix": "pell",
 			"definition": "skin"
 		},
 
 		{
-			"affix": "-pellent",
+			"affix": "pellent",
 			"definition": "drive"
 		},
 
 		{
-			"affix": "pend-",
+			"affix": "pend",
 			"definition": "hang down"
 		},
 
 		{
-			"affix": "per-",
+			"affix": "per",
 			"definition": "through"
 		},
 
 		{
-			"affix": "pet-",
+			"affix": "pet",
 			"definition": "seek"
 		},
 
 		{
-			"affix": "pil-",
+			"affix": "pil",
 			"definition": "hair"
 		},
 
 		{
-			"affix": "pituit-",
+			"affix": "pituit",
 			"definition": "phelgm"
 		},
 
 		{
-			"affix": "placent-",
+			"affix": "placent",
 			"definition": "cake"
 		},
 
 		{
-			"affix": "plet-",
+			"affix": "plet",
 			"definition": "fill"
 		},
 
 		{
-			"affix": "plic-",
+			"affix": "plic",
 			"definition": "fold"
 		},
 
 		{
-			"affix": "pluri-",
+			"affix": "pluri",
 			"definition": "more"
 		},
 
 		{
-			"affix": "pont-",
+			"affix": "pont",
 			"definition": "bridge"
 		},
 
 		{
-			"affix": "posit-",
+			"affix": "posit",
 			"definition": "place"
 		},
 
 		{
-			"affix": "post-",
+			"affix": "post",
 			"definition": "after"
 		},
 
 		{
-			"affix": "pre-",
+			"affix": "pre",
 			"definition": "before in time"
 		},
 
 		{
-			"affix": "press-",
+			"affix": "press",
 			"definition": "press"
 		},
 
 		{
-			"affix": "pro-",
+			"affix": "pro",
 			"definition": "before in time"
 		},
 
 		{
-			"affix": "pub-",
+			"affix": "pub",
 			"definition": "adult"
 		},
 
 		{
-			"affix": "pulmo-",
+			"affix": "pulmo",
 			"definition": "lung"
 		},
 
 		{
-			"affix": "puls-",
+			"affix": "puls",
 			"definition": "drive"
 		},
 
 		{
-			"affix": "puct-",
+			"affix": "puct",
 			"definition": "pierce"
 		},
 
 		{
-			"affix": "pupill-",
+			"affix": "pupill",
 			"definition": "girl or pupil"
 		},
 
 		{
-			"affix": "pur-",
+			"affix": "pur",
 			"definition": "pus"
 		},
 
 		{
-			"affix": "quadr-",
+			"affix": "quadr",
 			"definition": "four"
 		},
 
 		{
-			"affix": "quasi-",
+			"affix": "quasi",
 			"definition": "as if"
 		},
 
 		{
-			"affix": "quint-",
+			"affix": "quint",
 			"definition": "fifth"
 		},
 
 		{
-			"affix": "radi-",
+			"affix": "radi",
 			"definition": "ray"
 		},
 
 		{
-			"affix": "re-",
+			"affix": "re",
 			"definition": "again"
 		},
 
 		{
-			"affix": "rect-",
+			"affix": "rect",
 			"definition": "rectum"
 		},
 
 		{
-			"affix": "ren-",
+			"affix": "ren",
 			"definition": "kidney"
 		},
 
 		{
-			"affix": "ret-",
+			"affix": "ret",
 			"definition": "net"
 		},
 
 		{
-			"affix": "retr-",
+			"affix": "retr",
 			"definition": "backwards"
 		},
 
 		{
-			"affix": "rot-",
+			"affix": "rot",
 			"definition": "wheel"
 		},
 
 		{
-			"affix": "rub-",
+			"affix": "rub",
 			"definition": "red"
 		},
 
 		{
-			"affix": "sacr-",
+			"affix": "sacr",
 			"definition": "sacred"
 		},
 
 		{
-			"affix": "sangui-",
+			"affix": "sangui",
 			"definition": "blood"
 		},
 
 		{
-			"affix": "sect-",
+			"affix": "sect",
 			"definition": "cut"
 		},
 
 		{
-			"affix": "sept-",
+			"affix": "sept",
 			"definition": "wall"
 		},
 
 		{
-			"affix": "ser-",
+			"affix": "ser",
 			"definition": "watery substance"
 		},
 
 		{
-			"affix": "sin-",
+			"affix": "sin",
 			"definition": "hollow"
 		},
 
 		{
-			"affix": "sinistr-",
+			"affix": "sinistr",
 			"definition": "left"
 		},
 
 		{
-			"affix": "solut-",
+			"affix": "solut",
 			"definition": "loosen"
 		},
 
 		{
-			"affix": "somn-",
+			"affix": "somn",
 			"definition": "sleep"
 		},
 
 		{
-			"affix": "spectr-",
+			"affix": "spectr",
 			"definition": "appearance"
 		},
 
 		{
-			"affix": "spers-",
+			"affix": "spers",
 			"definition": "scatter"
 		},
 
 		{
-			"affix": "spin-",
+			"affix": "spin",
 			"definition": "spine"
 		},
 
 		{
-			"affix": "spir-",
+			"affix": "spir",
 			"definition": "breathe"
 		},
 
 		{
-			"affix": "spongi-",
+			"affix": "spongi",
 			"definition": "sponge"
 		},
 
 		{
-			"affix": "squam-",
+			"affix": "squam",
 			"definition": "scale"
 		},
 
 		{
-			"affix": "sterc-",
+			"affix": "sterc",
 			"definition": "dung"
 		},
 
 		{
-			"affix": "stric-",
+			"affix": "stric",
 			"definition": "compress"
 		},
 
 		{
-			"affix": "struct-",
+			"affix": "struct",
 			"definition": "pile up"
 		},
 
 		{
-			"affix": "styl-",
+			"affix": "styl",
 			"definition": "stake"
 		},
 
 		{
-			"affix": "sub-",
+			"affix": "sub",
 			"definition": "under"
 		},
 
 		{
-			"affix": "super-",
+			"affix": "super",
 			"definition": "above"
 		},
 
 		{
-			"affix": "supra-",
+			"affix": "supra",
 			"definition": "above"
 		},
 
 		{
-			"affix": "tact-",
+			"affix": "tact",
 			"definition": "touch"
 		},
 
 		{
-			"affix": "taenia-",
+			"affix": "taenia",
 			"definition": "tape"
 		},
 
 		{
-			"affix": "teg-",
+			"affix": "teg",
 			"definition": "cover"
 		},
 
 		{
-			"affix": "tempor-",
+			"affix": "tempor",
 			"definition": "time, temple"
 		},
 
 		{
-			"affix": "tend-",
+			"affix": "tend",
 			"definition": "tendon"
 		},
 
 		{
-			"affix": "tens-",
+			"affix": "tens",
 			"definition": "stretch"
 		},
 
 		{
-			"affix": "ter-",
+			"affix": "ter",
 			"definition": "three"
 		},
 
 		{
-			"affix": "tors-",
+			"affix": "tors",
 			"definition": "twist"
 		},
 
 		{
-			"affix": "tract-",
+			"affix": "tract",
 			"definition": "draw, drag"
 		},
 
 		{
-			"affix": "trans-",
+			"affix": "trans",
 			"definition": "through"
 		},
 
 		{
-			"affix": "tub-",
+			"affix": "tub",
 			"definition": "pipe"
 		},
 
 		{
-			"affix": "tuber-",
+			"affix": "tuber",
 			"definition": "swelling"
 		},
 
 		{
-			"affix": "ultra-",
+			"affix": "ultra",
 			"definition": "beyond"
 		},
 
 		{
-			"affix": "uni-",
+			"affix": "uni",
 			"definition": "one"
 		},
 
 		{
-			"affix": "uter-",
+			"affix": "uter",
 			"definition": "womb"
 		},
 
 		{
-			"affix": "vacc-",
+			"affix": "vacc",
 			"definition": "cow"
 		},
 
 		{
-			"affix": "vagin-",
+			"affix": "vagin",
 			"definition": "sheath"
 		},
 
 		{
-			"affix": "vas-",
+			"affix": "vas",
 			"definition": "vessel"
 		},
 
 		{
-			"affix": "ven-",
+			"affix": "ven",
 			"definition": "vein"
 		},
 
 		{
-			"affix": "ventra-",
+			"affix": "ventra",
 			"definition": "belly"
 		},
 
 		{
-			"affix": "vert-",
+			"affix": "vert",
 			"definition": "turn"
 		},
 
 		{
-			"affix": "vesic-",
+			"affix": "vesic",
 			"definition": "bladder"
 		},
 
 		{
-			"affix": "video-",
+			"affix": "video",
 			"definition": "see"
 		},
 
 		{
-			"affix": "viscer-",
+			"affix": "viscer",
 			"definition": "internal organs"
 		},
 
 		{
-			"affix": "vit-",
+			"affix": "vit",
 			"definition": "life"
 		},
 
 		{
-			"affix": "vivus-",
+			"affix": "vivus",
 			"definition": "alive"
 		},
 
 		{
-			"affix": "vuls-",
+			"affix": "vuls",
 			"definition": "twitch"
+		},
+
+				{
+			"affix": "a",
+			"definition": "without"
+		},
+
+		{
+			"affix": "ab",
+			"definition": "away"
+		},
+
+		{
+			"affix": "ad",
+			"definition": "toward"
+		},
+
+		{
+			"affix": "adipo",
+			"definition": "fat"
+		},
+
+		{
+			"affix": "alb",
+			"definition": "white"
+		},
+
+		{
+			"affix": "alve",
+			"definition": "cavity"
+		},
+
+		{
+			"affix": "ambi",
+			"definition": "both"
+		},
+
+		{
+			"affix": "ante",
+			"definition": "before"
+		},
+
+		{
+			"affix": "apic",
+			"definition": "top"
+		},
+
+		{
+			"affix": "ase",
+			"definition": "enzyme"
+		},
+
+
+		{
+			"affix": "bio",
+			"definition": "life"
+		},
+
+
+		{
+			"affix": "blast",
+			"definition": "bud, child, a growing thing in its early stages"
+		},
+
+
+		{
+			"affix": "blenn",
+			"definition": "mucus"
+		},
+
+
+		{
+			"affix": "blep",
+			"definition": "look, see"
+		},
+
+
+		{
+			"affix": "blephar",
+			"definition": "of eyelid"
+		},
+
+
+		{
+			"affix": "brachii",
+			"definition": "arm"
+		},
+
+
+		{
+			"affix": "brachy",
+			"definition": "short"
+		},
+
+
+		{
+			"affix": "brady",
+			"definition": "short"
+		},
+
+
+		{
+			"affix": "brom",
+			"definition": "stench"
+		},
+
+
+		{
+			"affix": "bronch",
+			"definition": "windpipe"
+		},
+
+
+		{
+			"affix": "bronchiole",
+			"definition": "of bronchus"
+		},
+
+
+		{
+			"affix": "bry",
+			"definition": "be full of life"
+		},
+
+
+		{
+			"affix": "butry",
+			"definition": "butter"
+		},
+
+
+		{
+			"affix": "cac",
+			"definition": "bad, abnormal"
+		},
+
+
+		{
+			"affix": "campt",
+			"definition": "bent"
+		},
+
+
+		{
+			"affix": "canth",
+			"definition": "foreign"
+		},
+
+
+		{
+			"affix": "capn",
+			"definition": "smoke"
+		},
+
+
+		{
+			"affix": "carcin",
+			"definition": "crab, cancer"
+		},
+
+
+		{
+			"affix": "cardi",
+			"definition": "heart"
+		},
+
+		{
+			"affix": "cata",
+			"definition": "down, negative"
+		},
+
+		{
+			"affix": "cele",
+			"definition": "tumor, hernia , hollow"
+		},
+
+		{
+			"affix": "celi",
+			"definition": "belly"
+		},
+
+		{
+			"affix": "cen",
+			"definition": "common"
+		},
+
+		{
+			"affix": "cente",
+			"definition": "to puncture"
+		},
+
+		{
+			"affix": "centr",
+			"definition": "point, center"
+		},
+
+		{
+			"affix": "cephal",
+			"definition": "head"
+		},
+
+		{
+			"affix": "cer",
+			"definition": "or cera??"
+		},
+
+		{
+			"affix": "cerc",
+			"definition": "tail"
+		},
+
+		{
+			"affix": "cheil",
+			"definition": "lip"
+		},
+
+		{
+			"affix": "chir",
+			"definition": "hand"
+		},
+
+		{
+			"affix": "chlor",
+			"definition": "green"
+		},
+
+		{
+			"affix": "choan",
+			"definition": "funnel"
+		},
+
+		{
+			"affix": "chol",
+			"definition": "bile"
+		},
+
+		{
+			"affix": "chondr",
+			"definition": "granule"
+		},
+
+		{
+			"affix": "chord",
+			"definition": "string, cord"
+		},
+
+		{
+			"affix": "chore",
+			"definition": "dance"
+		},
+
+		{
+			"affix": "chori",
+			"definition": "membrane"
+		},
+
+		{
+			"affix": "chro",
+			"definition": "color"
+		},
+
+		{
+			"affix": "chron",
+			"definition": "time"
+		},
+
+		{
+			"affix": "chrys",
+			"definition": "gold"
+		},
+
+		{
+			"affix": "chy",
+			"definition": "pour"
+		},
+
+		{
+			"affix": "chyl",
+			"definition": "juice"
+		},
+
+		{
+			"affix": "cirs",
+			"definition": "varix"
+		},
+
+		{
+			"affix": "clast",
+			"definition": "break"
+		},
+
+		{
+			"affix": "cleid",
+			"definition": "key, clavical"
+		},
+
+		{
+			"affix": "cleisis",
+			"definition": "to enclose"
+		},
+
+		{
+			"affix": "clin",
+			"definition": "bend, incline, make lie down"
+		},
+
+		{
+			"affix": "cnid",
+			"definition": "nettle"
+		},
+		{
+			"affix": "cocc",
+			"definition": "berry"
+		},
+
+		{
+			"affix": "coel",
+			"definition": "hollow"
+		},
+
+		{
+			"affix": "colon",
+			"definition": "lower intestine"
+		},
+
+		{
+			"affix": "colp",
+			"definition": "hollow"
+		},
+
+		{
+			"affix": "chir",
+			"definition": "hand"
+		},
+
+
+
+		{
+			"affix": "bacill",
+			"definition": "rod"
+		},
+
+		{
+			"affix": "bi",
+			"definition": "two"
+		},
+
+		{
+			"affix": "brevi",
+			"definition": "short"
+		},
+
+		{
+			"affix": "capit",
+			"definition": "head"
+		},
+
+		{
+			"affix": "cervix",
+			"definition": "neck"
+		},
+
+		{
+			"affix": "cili",
+			"definition": "eyelid"
+		},
+
+		{
+			"affix": "cortic",
+			"definition": "bark"
+		},
+
+		{
+			"affix": "de",
+			"definition": "without"
+		},
+
+
+		{
+			"affix": "de",
+			"definition": "without"
+		},
+
+		{
+			"affix": "enantios",
+			"definition": "opposite"
+		},
+
+
+
+		{
+			"affix": "mecha",
+			"definition": "fabric or structure"
+		},
+
+		{
+			"affix": "pheno",
+			"definition": "I shine"
+		},
+
+
+		{
+			"affix": "type",
+			"definition": "typical form"
+		},
+
+		{
+			"affix": "metry",
+			"definition": "measuring"
 		}
+
 	]
-}
+
+

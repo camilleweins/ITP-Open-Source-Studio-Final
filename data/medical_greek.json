@@ -1,7 +1,5 @@
 // a collection of Greekcombining affixs
-{
-	"description": "A list of combining terms found in medical Greek",
-	"terms": [
+[
 		{
 			"affix": "a-",
 			"definition": "without"
@@ -201,7 +199,7 @@
 			"definition": "head"
 		},
 
-		{//***
+		{
 			"affix": "cer-",
 			"definition": "or cera??"
 		},
@@ -281,7 +279,7 @@
 			"definition": "juice"
 		},
 
-		{//***
+		{
 			"affix": "cirs-",
 			"definition": "varix"
 		},
@@ -408,12 +406,10 @@
 		{
 			"affix": "type",
 			"definition": "typical form"
-		},
+		}
 
 
 
 
 	]
 
-
-}

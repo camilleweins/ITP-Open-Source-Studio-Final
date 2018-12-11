@@ -2,14 +2,18 @@
 
 let text = document.getElementById("text").innerHTML;
 // let latin = JSON.parse(latinData);
+let data = [];
+let latin;
 
-var latin;
+// let gdata = [];
+// let greek;
+
 function preload() {
   // Get the most recent earthquake in the database
-  var url = 'data/medical_latin.json';
-  latin = loadJSON(url);
-  console.log(latin);
+  data = loadJSON('data/medical_latin.json');
+  // gdata = loadJSON('data/medical_greek.json');
 }
+  //console.log(data);
 
 function setup() {
   noCanvas();
@@ -52,53 +56,56 @@ function setup() {
 //      }
 // ];
 
-function removeSpecialChars(t) {
-  return t.replace(/(?!\w|\s)./g, '')
-    .replace(/\s+/g, ' ')
-    .replace(/^(\s*)([\W\w]*)(\b\s*$)/g, '$2');
-}
+// function removeSpecialChars(t) {
+//   return t.replace(/(?!\w|\s)./g, '')
+//     .replace(/\s+/g, ' ')
+//     .replace(/^(\s*)([\W\w]*)(\b\s*$)/g, '$2');
+// }
 
 function run() {
-	toRegex();
+  toRegex();
 
 }
 
-String.prototype.replaceAt=function(index, replacement) {
-  //should take the whole word here
-      return this.substr(0, index) + replacement+ this.substr(index);
+String.prototype.replaceAll = function(search, replacement) {
+    var target = this;
+    return target.replace(new RegExp(search, 'g'), replacement);
+};
 
-    // return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
-}
+// String.prototype.replaceAt=function(index, replacement) {
+//   //should take the whole word here
+//       return this.substr(0, index) + replacement+ this.substr(index);
+
+//     // return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
+// }
 
 function toRegex() {
-	for (i in latin) {
-      console.log(latin[i]);
+    latin = data;
+  // console.log(latin[1].affix);
+  for (i in latin) {
+  //console.log(latin.affix[i]);
+  console.log(latin[i].affix);
 
-	     let lAffix = new RegExp(latin[i].affix, "gi");
-	     let lDef = latin[i].definition;
-	     // console.log(lDef.toString());
-	     let match;
+       let lAffix = new RegExp(latin[i].affix, "g");
+       //console.log(lAffix);
+       let lDef = latin[i].definition;
+       // console.log(lDef.toString());
+
+       
+        let match;
         //console.log(lAffix.exec(text));
 
-	     while (match = lAffix.exec(text)) {
-        //console.log(match);
-	     	//console.log("found", match[0], "at", match.index);
-	     	// console.log(index);
-	     	//console.log(match.index);
+       while (match = lAffix.exec(text)) {
+        // console.log("found", match[0], "at", match.index);
+        let original = '<a href="#" ' + 'data-tooltip='+lDef+'>' +latin[i].affix+'</a>';
 
-        let original = '<a href="#" ' + 'data-tooltip='+lDef+'>' +RegExp.$1+latin[i].affix +RegExp.$2+'</a>';
+        // console.log(original);
+        let newText = text.replaceAll(match[0], original);
+        document.getElementById("text").innerHTML = newText;
+        //text = newText;
+        console.log(newText);
+       }
 
 
-        // let newText = text.replace(match.index, function(x){
-        //   return '<a>'+x+'</a>';
-        //   //console.log(x);
-        // });
-        // document.getElementById("text").innerHTML = newText;
-        console.log(original);
-	     	let newText = text.replace(match, original);
-	     	document.getElementById("text").innerHTML = newText;
-	     	//text = newText;
-	     	console.log(newText);
-	     }
-	}
+  }
 }
